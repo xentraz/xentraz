@@ -21,14 +21,14 @@
 ## Contact
 <div align="left"> 
 <img alt="LinkedIn/li/emmathurmer" src="https://img.shields.io/badge/LinkedIn/li/emmathurmer-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="emma.thurmer@gmail.com" src="https://img.shields.io/badge/emma.thurmer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="Emma Thurmer" src="https://img.shields.io/badge/emma-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
-## Socials
+<!-- ## Socials
 <div align="left"> 
 <img alt="Instagram" src="https://img.shields.io/badge/Emmacft-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img alt="Twitch" src="https://img.shields.io/badge/xentraz-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
-</div>
+</div> -->
 
 ## Views & Stats
 ![](https://komarev.com/ghpvc/?username=your-github-xentraz&color=lightgrey)
