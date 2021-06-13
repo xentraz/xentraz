@@ -1,10 +1,10 @@
-### Welcome! My Name is Emma Thurmer
+# Welcome! My Name is Emma Thurmer
 
 ## Languages
 
-![javascript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=appveyor)
-![javascript](https://img.shields.io/badge/-CSS3-green?style=flat-square&logo=appveyor)
-![javascript](https://img.shields.io/badge/-HTML5-green?style=flat-square&logo=appveyor)
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 
 ## Aplications
@@ -19,17 +19,16 @@
 
 ## Contact
 
-<img alt="LinkedIn/li/emmathurmer" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Discord" src="https://img.shields.io/badge/xentraz#81373E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-<img alt="emma.thurmer@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="LinkedIn/li/emmathurmer" src="https://img.shields.io/badge/LinkedIn/li/emmathurmer-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="emma.thurmer@gmail.com" src="https://img.shields.io/badge/emma.thurmer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ## Socials
 
 <img alt="Instagram" src="https://img.shields.io/badge/Emmacft-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img alt="Twitch" src="https://img.shields.io/badge/xentraz-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
 
-## Views
+## Views & Stats
 ![](https://komarev.com/ghpvc/?username=your-github-xentraz&color=lightgrey)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-![Xentraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Xentraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xentraz&show_icons=true&theme=radical)
