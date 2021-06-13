@@ -1,8 +1,10 @@
 ### Welcome! My Name is Emma Thurmer
 
-## Front-End
+## Languages
 
 ![javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=appveyor)
+![javascript](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=appveyor)
+![javascript](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=appveyor)
 
 
 
