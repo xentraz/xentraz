@@ -20,13 +20,15 @@
 ## Contact
 
 <img alt="LinkedIn/li/emmathurmer" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Discord xentraz#8137" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-<img alt="Gmail: emma.thurmer@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="xentraz#8137" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+<img alt="emma.thurmer@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 ## Socials
 
 <img alt="Instagram" src="https://img.shields.io/badge/Emmacft-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img alt="Twitch" src="https://img.shields.io/badge/xentraz-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>
 
+## Views
+![](https://komarev.com/ghpvc/?username=your-github-xentraz&color=lightgrey)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
