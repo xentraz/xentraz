@@ -1,4 +1,4 @@
-# Welcome! My Name is Emma Thurmer
+# Welcome! My Name is Emma Ford
 
 ## Languages
 <div align="left"> 
