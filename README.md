@@ -20,8 +20,7 @@
 
 ## Contact
 <div align="left"> 
-<img alt="LinkedIn/li/emmathurmer" src="https://img.shields.io/badge/LinkedIn/li/emmathurmer-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Emma Thurmer" src="https://img.shields.io/badge/emma-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="Emma Ford" src="https://img.shields.io/badge/emma-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
 <!-- ## Socials
