@@ -18,10 +18,8 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 </div> 
 
-## Contact
-<div align="left"> 
-<img alt="Emma Ford" src="https://img.shields.io/badge/emma-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
+## Portfolio (Last updated: May 2021)
+https://emmathurmer-portfolio.netlify.app/
 
 <!-- ## Socials
 <div align="left"> 
