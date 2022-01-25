@@ -19,7 +19,8 @@
 </div> 
 
 ## Portfolio (Last updated: May 2021)
-https://emmathurmer-portfolio.netlify.app/
+https://emmathurmer-portfolio.netlify.app/ (out of date)
+Currently working on developing a new portfolio! 
 
 <!-- ## Socials
 <div align="left"> 
